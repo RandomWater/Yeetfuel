@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yeetfuel
+- 👋 Hi, I’m RandomWater
 - 👀 I’m interested in Programming and stuff
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing
